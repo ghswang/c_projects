@@ -1,0 +1,2 @@
+This	file	has	some	tabs	between		the 	characters		
+and here are some    spaces   
